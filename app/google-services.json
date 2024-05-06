@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108470955741",
+    "project_id": "fir-authemailpassword-da88d",
+    "storage_bucket": "fir-authemailpassword-da88d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108470955741:android:e04f2b06bcefc7a8723534",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthemailpassword"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3boEwShnlHNkquZ7ysxT8pSAprd-dDKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
