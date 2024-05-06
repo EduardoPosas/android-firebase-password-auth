@@ -33,5 +33,11 @@ usuario y controlar el acceso del usuario a información almacenada en otros pro
 
 <img alt="profile_screen.jpg" src="app%2Fsrc%2Fmain%2Fres%2Fdrawable%2Fprofile_screen.jpg" width="250"/>
 
+## Referencias
+
+1. https://www.youtube.com/watch?v=LHh2_TXBmS8
+2. https://firebase.blog/posts/2022/04/building-an-app-android-jetpack-compose-firebase
+
+
 
 
